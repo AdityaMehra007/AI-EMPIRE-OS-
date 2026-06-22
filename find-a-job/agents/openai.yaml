@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find a Job"
+  short_description: "Structured job search support"
+  default_prompt: "Use $find-a-job to improve my resume, plan my job search, draft outreach, and prepare for interviews."
